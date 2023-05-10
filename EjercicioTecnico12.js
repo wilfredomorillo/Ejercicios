@@ -1,0 +1,1 @@
+//Escribir una función que reciba un arreglo de objetos y un string, y devuelva un nuevo arreglo con solo los objetos que tienen una propiedad que coincide con el string.
